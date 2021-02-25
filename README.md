@@ -10,3 +10,4 @@ This project serves by saving the data into browser's local storage and you can 
   
 ## Deployment
 
+https://your-expense-tracker-app.netlify.app/
